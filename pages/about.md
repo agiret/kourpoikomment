@@ -1,13 +1,13 @@
 ---
 layout: page
-title: kourPoiKomment, ki-de-koi ?
+title: KourpoiKomment, ki-de-koi ?
 permalink: "/about/"
 # image: assets/images/screenshot.png
 ---
 
-*k*our*P*oi ? Et bien *qu*arce-*p*e...
+*Kourpoi* ? Et bien *quarce-pe*...
 
-Nous sommes un collectif multidisciplinaire...
+Nous sommes un collectif multidisciplinaire à géométrie variable...
 
 Les enquêtes "ouvertes" permettent à qui souhaite contribuer (humainement, financièrement, etc.) de venir apporter son soutien à une enquête qui lui tient à coeur.
 
