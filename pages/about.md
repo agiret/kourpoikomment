@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: kourPoiKomment, ki-de-koi ?
 permalink: "/about/"
-image: assets/images/screenshot.png
+# image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+*k*our*P*oi ? Et bien *qu*arce-*p*e...
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Nous sommes un collectif multidisciplinaire...
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Les enquêtes "ouvertes" permettent à qui souhaite contribuer (humainement, financièrement, etc.) de venir apporter son soutien à une enquête qui lui tient à coeur.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+La redirection écologique : ... définition, redirection VS transition, ...
+
+Nous promouvons avant tout l'habitabilité de la Terre et le bien-être pour tous.
 
