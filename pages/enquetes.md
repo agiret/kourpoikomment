@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les enquêtes réalisée ou en-cours
+title: Enquêtes réalisées ou en-cours
 permalink: "/enquetes/"
 image: assets/images/screenshot.png
 ---
