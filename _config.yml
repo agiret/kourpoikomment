@@ -1,4 +1,4 @@
-title: "kourPoiKomment"
+title: "kourpoiKomment"
 email: aaaa@gmail.com
 timezone: Europe/Paris
 baseurl: ""
@@ -37,10 +37,10 @@ authors:
     display_name: Antoine
     avatar: 'assets/images/avatars/antoine_giret.jpg'
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
+    web: https://www.linkedin.com/in/antoinegiret/
     twitter: https://twitter.com/antoinegiret
     linkedin: https://www.linkedin.com/in/antoinegiret/
-    description: "Accompagnement à la rediretion écologique des organisations."
+    description: "Conseil et accompagnement à la définition de stratégies de rediretion écologique des organisations."
 
 # Social
 social:

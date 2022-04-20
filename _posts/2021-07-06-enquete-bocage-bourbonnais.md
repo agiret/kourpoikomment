@@ -26,6 +26,8 @@ Il ressort de l'enquête, l'impression d'une difficulté à se projeter individu
 
 Selon les groupes, l'enquête a montré que les acteurs engagés dans la construction d'une alternative n'ont pas toujours l'intention explicite d'inspirer le reste du territoire. Des germes d'une société du futur existent déjà mais restent fragiles et limitées géographiquement. Reste la question de l'interraction de ces acteurs avec les autres parties prenantes du Bourbonnais, pour co-construire leur vision des chemins possibles pour un territoire plus habitable.
 
-[msc_programme]: https://strategy-design-anthropocene.org/fr
-
+---
 [^1]: L'anthropocène est le nom donné à une époque de l'histoire de la Terre pour caractériser la période durant laquelle l'influence de l'être humain sur la biosphère a atteint un tel niveau qu'elle est devenue une "force géologique" majeure capable de marquer la lithosphère et de marquer de façon significative l'écosystème terrestre. La période la plus récente de l'anthropocène est parfois dite de la grande accélération, car de nombreux indicateurs y présentent des courbes de type exponentiel.
+
+<!-- Liste des liens : -->
+[msc_programme]: https://strategy-design-anthropocene.org/fr
